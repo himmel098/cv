@@ -1,8 +1,6 @@
 # Kyrylo Smyrnov
 ## PHP Software Engineer (Laravel)
 
-* * *
-
 ### CONTACT INFO
 
 **Email:** smirnovkrl02@gmail.com  
